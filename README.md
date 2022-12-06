@@ -126,7 +126,7 @@
 
 ## Bank, @Alexandre
 
-- see notes.txt
+> see notes.txt
   
 ****
 
