@@ -125,9 +125,6 @@
 ## Ifs Cars Service, @Romain
 
 ## Bank, @Alexandre
-
-> see notes.txt
-<!---->
   
 ****
 
